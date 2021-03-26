@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+<!--
+body {
+	margin-left: 225px;
+}
+.stil4 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	color: #33CC33;
+}
+
+.stil09 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+}
+
+a:link {
+	color: #FFFFFF;
+	text-decoration:none;
+}
+
+a:hover {
+	text-decoration: underline;
+	
+}
+a:active {
+	text-decoration: none;
+}
+img{ 
+	border-width:0px;
+	}
+
+a:visited {
+text-decoration:none;
+	color:#EBEBEB;
+}
+.stil6 {
+	font-family: Arial, Helvetica, sans-serif
+}
+.stil7 {font-size: xx-large}
+.stil9 {
+	font-family: "Courier New", Courier, monospace;
+	color: #999999;
+	font-size: 14px;
+	margin-left: 59px;
+}
+-->

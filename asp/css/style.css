@@ -1,0 +1,105 @@
+input.buton
+{
+   font-size:15px;
+   font-family:Trebuchet MS,sans-serif;
+   color:#000000;
+   height:25px;
+   background-color:#EEEEEE;
+   border-top-style:solid;
+   border-top-color:#9933FF;
+   border-top-width:0px;
+   border-bottom-style:solid;
+   border-bottom-color:#9933FF;
+   border-bottom-width:0px;
+   border-left-style:solid;
+   border-left-color:#00CC00;
+   border-left-width:10px;
+   border-right-style:solid;
+   border-right-color:#9933FF;
+   border-right-width:0px;
+}
+
+
+input.n1
+{
+   font-size:15px;
+   font-family:Trebuchet MS,sans-serif;
+   color:#000099;
+   height:25px;
+   background-color:#EEEEEE;
+   border-top-style:solid;
+   border-top-color:#9933FF;
+   border-top-width:0px;
+   border-bottom-style:solid;
+   border-bottom-color:#9933FF;
+   border-bottom-width:0px;
+   border-left-style:solid;
+   border-left-color:#CCCCCC;
+   border-left-width:10px;
+   border-right-style:solid;
+   border-right-color:#9933FF;
+   border-right-width:0px;
+}
+
+input.buton2
+{
+   font-size:15px;
+   font-family:Trebuchet MS,sans-serif;
+   color:#000000;
+   height:25px;
+   background-color:#EEEEEE;
+   border-top-style:solid;
+   border-top-color:#9933FF;
+   border-top-width:0px;
+   border-bottom-style:solid;
+   border-bottom-color:#9933FF;
+   border-bottom-width:0px;
+   border-left-style:solid;
+   border-left-color:#FF0000;
+   border-left-width:10px;
+   border-right-style:solid;
+   border-right-color:#9933FF;
+   border-right-width:0px;
+}
+
+input.n2
+{
+   font-size:15px;
+   font-family:Trebuchet MS,sans-serif;
+   color:#000099;
+   height:25px;
+   background-color:#EEEEEE;
+   border-top-style:solid;
+   border-top-color:#9933FF;
+   border-top-width:0px;
+   border-bottom-style:solid;
+   border-bottom-color:#9933FF;
+   border-bottom-width:0px;
+   border-left-style:solid;
+   border-left-color:#FF0000;
+   border-left-width:10px;
+   border-right-style:solid;
+   border-right-color:#9933FF;
+   border-right-width:0px;
+}
+
+input.but
+{
+   font-size:15px;
+   font-family:Trebuchet MS,sans-serif;
+   color:#000000;
+   height:25px;
+   background-color:#EEEEEE;
+   border-top-style:solid;
+   border-top-color:#9933FF;
+   border-top-width:0px;
+   border-bottom-style:solid;
+   border-bottom-color:#9933FF;
+   border-bottom-width:0px;
+   border-left-style:solid;
+   border-left-color:#00CC00;
+   border-left-width:10px;
+   border-right-style:solid;
+   border-right-color:#9933FF;
+   border-right-width:0px;
+}

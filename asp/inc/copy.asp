@@ -1,0 +1,2 @@
+<div align="center" class="stil9" style="background-color:#FFF !important; width:780px;" id="alt">&copy; <strong>Emre ÇOBAN</strong> /
+<!-- End ImageReady Slices --> Türkçe Projeler (Örnek: ID:Emre - Pass:123456)</div>
