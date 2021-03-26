@@ -1,5 +1,5 @@
 # 3Words
-3Words is a social network project, programmed in both Classic ASP and PHP. The first release was published in 2012. The users can write 3 words about themself on their profiles each other in 3Words. The PHP version is better than the ASP version.
+3Words is a social network project, programmed in both Classic ASP and PHP. The first release was published in 2012. The users can write 3 words about themself on their profiles each other in 3Words. The PHP version is better than the ASP version. It is not responsive unfortunately.
 
 ## PHP Version
 
